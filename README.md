@@ -5,7 +5,7 @@ A Python web scraper that extracts real estate listings from [Aqarmap.com.eg](ht
 
 # What did I do?
 
-I scraped 200 records from [Aqarmap.com.eg], including fully organized data about real estate
+I scraped 200 records from [Aqarmap.com.eg](https://aqarmap.com.eg) , including fully organized data about real estate
 
 ## Demo
 
